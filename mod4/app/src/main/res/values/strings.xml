@@ -1,11 +1,10 @@
 <resources>
     <string name="app_name">mod4</string>
-    <string name="button1_text">button1</string>
     <string name="time_separator">:</string>
-    <string name="num1">1</string>
-    <string name="num2">2</string>
-    <string name="num3">3</string>
-    <string name="num4">4</string>
+    <string name="num1">0</string>
+    <string name="num2">0</string>
+    <string name="num3">0</string>
+    <string name="num4">0</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="reset">Reset</string>
